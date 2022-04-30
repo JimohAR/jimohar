@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JimohAR
-- 👀 I’m interested in Datascience
-- 🌱 I’m currently learning Data mining
-- 💞️ I’m looking to collaborate on data mining projects
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Apache Airflow, Apache Spark
+- 💞️ I’m looking to collaborate on ETL pipeline projects
 - 📫 How to reach me abolarinwarildwan@gmail.com
 
 <!---
