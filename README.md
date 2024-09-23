@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JimohAR
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Apache Airflow, Apache Spark
-- 💞️ I’m looking to collaborate on ETL pipeline projects
+- 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me abolarinwarildwan@gmail.com
 
 <!---
